@@ -1,0 +1,25 @@
+{
+  "name": "collapsible-js",
+  "version": "1.0.0",
+  "description": "A package to help make HTML elements collapsible",
+  "main": "js/collapsible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "collapse",
+    "collapsible",
+    "js",
+    "css"
+  ],
+  "author": "Zachary Ishmael",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaederx/collapsible-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaederx/collapsible-js/issues"
+  },
+  "homepage": "https://github.com/Zaederx/collapsible-js#readme"
+}
